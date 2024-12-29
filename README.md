@@ -10,3 +10,12 @@ A simple fast food management system built using Flask and SQL Server.
 - Python 3.8+
 - Flask
 - SQL Server
+- install pyodbc
+
+## Connection With Database 
+- change Server name and Driver in connection string 
+- conn = pyodbc.connect('Driver={YourDriverName};'
+                    'Server=YourServerName;'
+                    'Database=DatabaseName;'
+                    'Trusted_Connection=yes;')
+- ي
