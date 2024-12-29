@@ -18,4 +18,4 @@ A simple fast food management system built using Flask and SQL Server.
                     'Server=YourServerName;'
                     'Database=DatabaseName;'
                     'Trusted_Connection=yes;')
-- ي
+  
